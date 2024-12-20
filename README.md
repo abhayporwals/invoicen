@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/7f601c52-a079-46a4-a3c1-81f692e8c589)
+
+---
+
 # Invoicen
 
 **Invoicen** is an open-source, self-hostable web application designed to simplify invoice generation for freelancers and small businesses. With Invoicen, you can create, manage, and share professional invoices effortlessly. Built with the open-source community and designed to simplify invoice management.
